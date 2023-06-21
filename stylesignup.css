@@ -1,0 +1,12 @@
+
+.img-fluid {
+    margin-top: -127px;
+    max-width: 100%;
+    height: 350px;
+}
+
+.text-black {
+    margin-top: 50px;
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-black-rgb),var(--bs-text-opacity))!important;
+}
